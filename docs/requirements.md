@@ -12,7 +12,7 @@ By default, the app should display the time.
 
 #### Wireframe
 
-See wireframe-js-digital-clock.png
+See [wireframe-js-digital-clock.png](https://github.com/bootcamp-s19/exercise1-js-digital-clock/blob/master/docs/wireframe-js-digital-clock.png)
 
 #### Tech Stack
 
