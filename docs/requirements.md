@@ -24,7 +24,7 @@ See wireframe-js-digital-clock.png
 
 To complete the assignment, you must complete the following:
 ###### Setup:
-1. Fork repo `exercise5-js-digital-clock`
+1. Fork repo `exercise1-js-digital-clock`
 2. Create necessary files for application
 3. Import necessary css/js files (Bootstrap)
 ###### Develop:
@@ -40,7 +40,7 @@ To complete the assignment, you must complete the following:
 Minimally:
 
 ```
-yourappname/
+web/
     index.html - main page
     css/ - folder to contain CSS files
         /style.css - stylesheet
